@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2C4914582565048D005D1423 /* Calendar_CTRApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C4914572565048D005D1423 /* Calendar_CTRApp.swift */; };
-		2C49145A2565048D005D1423 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C4914592565048D005D1423 /* ContentView.swift */; };
+		2C49145A2565048D005D1423 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C4914592565048D005D1423 /* LoginView.swift */; };
 		2C49145C2565048E005D1423 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C49145B2565048E005D1423 /* Assets.xcassets */; };
 		2C49145F2565048E005D1423 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C49145E2565048E005D1423 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		2C4914542565048D005D1423 /* Calendar_CTR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calendar_CTR.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C4914572565048D005D1423 /* Calendar_CTRApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Calendar_CTRApp.swift; sourceTree = "<group>"; };
-		2C4914592565048D005D1423 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		2C4914592565048D005D1423 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 		2C49145B2565048E005D1423 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2C49145E2565048E005D1423 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		2C4914602565048E005D1423 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -53,7 +53,7 @@
 			isa = PBXGroup;
 			children = (
 				2C4914572565048D005D1423 /* Calendar_CTRApp.swift */,
-				2C4914592565048D005D1423 /* ContentView.swift */,
+				2C4914592565048D005D1423 /* LoginView.swift */,
 				2C49145B2565048E005D1423 /* Assets.xcassets */,
 				2C4914602565048E005D1423 /* Info.plist */,
 				2C49145D2565048E005D1423 /* Preview Content */,
@@ -138,7 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2C49145A2565048D005D1423 /* ContentView.swift in Sources */,
+				2C49145A2565048D005D1423 /* LoginView.swift in Sources */,
 				2C4914582565048D005D1423 /* Calendar_CTRApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
