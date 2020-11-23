@@ -2,7 +2,7 @@
 //  Calendar_CTRApp.swift
 //  Calendar_CTR
 //
-//  Created by 龚敬洋 on 2020/11/18.
+//  Created by GONGGONGJOHN on 2020/11/18.
 //
 
 import SwiftUI
